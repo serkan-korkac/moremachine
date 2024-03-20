@@ -76,5 +76,18 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "TESTTTT",
+    "fieldId": "testttt",
+    "modelId": "checkboxxx",
+    "componentId": "checkbox",
+    "options": {
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
