@@ -73,7 +73,16 @@
     "fieldId": "asdasd",
     "modelId": "checkboxxx",
     "componentId": "switch",
-    "options": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "switch": {
+            "value": true
+          }
+        }
+      }
+    },
     "validations": {},
     "fieldType": "boolean"
   },
