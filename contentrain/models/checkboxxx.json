@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "checkboxxx"
+  },
+  {
+    "name": "sdasd",
+    "fieldId": "sdasd",
+    "modelId": "checkboxxx",
+    "componentId": "checkbox",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
