@@ -1,16 +1,17 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-23T07:46:30.642Z"
-status: "draft"
-slug: "contentrain-roadmap"
+updatedAt: "2024-05-14T15:37:26.759Z"
+status: "publish"
+slug: "contentrain-roadmap2"
 title: "Contentain 2.0 Roadmap"
 description: "As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests."
-category: "fdf1dd91a0c3"
 imagesrc: "public/images/1705782485302_cover.svg"
 imagealt: "blog image"
 author: "ad3132ae0ff8"
-path: "content/blog"
+category: "fdf1dd91a0c3"
+scheduled: false
+path: "content/blogs"
 ---
 # Contentrain 2.0 Roadmap
 
