@@ -94,5 +94,31 @@
     },
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "33",
+    "fieldId": "33",
+    "modelId": "ratings",
+    "componentId": "rating",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "rating": {
+            "value": 3
+          }
+        }
+      },
+      "number-of-stars": {
+        "value": true,
+        "form": {
+          "number-of-stars": {
+            "value": 23
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "number"
   }
 ]
