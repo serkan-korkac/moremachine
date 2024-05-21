@@ -58,5 +58,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "ratings"
+  },
+  {
+    "name": "rate",
+    "fieldId": "rate",
+    "modelId": "ratings",
+    "componentId": "rating",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "rating": {
+            "value": 3
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "number"
   }
 ]
