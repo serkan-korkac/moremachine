@@ -76,23 +76,5 @@
     },
     "validations": {},
     "fieldType": "number"
-  },
-  {
-    "name": "123",
-    "fieldId": "123",
-    "modelId": "ratings",
-    "componentId": "rating",
-    "options": {
-      "default-value": {
-        "value": true,
-        "form": {
-          "rating": {
-            "value": 3
-          }
-        }
-      }
-    },
-    "validations": {},
-    "fieldType": "number"
   }
 ]
